@@ -1,1 +1,1 @@
-hiwi project about consensus algorithm
+hiwi project about consensus algorithm and communication nodes
