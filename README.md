@@ -1,1 +1,2 @@
-hiwi project about consensus algorithm and communication nodes
+this is the project documentation of projects that I have done so far
+
